@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "984341057760",
+    "firebase_url": "https://mypro-efe30-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mypro-efe30",
+    "storage_bucket": "mypro-efe30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984341057760:android:09b2594a0f2ff215b8c085",
+        "android_client_info": {
+          "package_name": "com.docs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984341057760-j4vhaqthtlg0m04vus2ru9auvl2pllds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHBVhDH-8QTm7lVLpx1CE5kx8vJl2jsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984341057760-j4vhaqthtlg0m04vus2ru9auvl2pllds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
